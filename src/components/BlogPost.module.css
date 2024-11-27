@@ -15,3 +15,23 @@
 .contentBlog{
     padding: 20px;
 }
+
+.title{
+    color: #535151;
+}
+
+.description{
+    font-size: 1em;
+    color: #685838;
+}
+
+.button{
+    background-color: #dec17c;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+
+

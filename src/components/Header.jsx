@@ -2,7 +2,7 @@ import React from "react";
 import styles from './Header.module.css';
 
 function Header() {
-    console.log('Header components');
+    // console.log('Header components');
 
     return (
         <header className={styles.header}>
