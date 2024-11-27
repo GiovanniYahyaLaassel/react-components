@@ -1,0 +1,17 @@
+.containerBlog{
+    max-width: 600px;
+    background-color: #f8eeee;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2);
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+.imagePost{
+    width: 100%;
+    height: auto;
+}
+
+.contentBlog{
+    padding: 20px;
+}
